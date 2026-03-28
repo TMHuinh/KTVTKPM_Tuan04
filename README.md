@@ -1,31 +1,44 @@
 # KTVTKPM_Tuan04
 
 - Viết code (AI)-CMS (3 chức năng-tự chọn)
-	- Layer Architecture (ReatJS, Springboot)--> 3 Chức năng (nhanh)
-	- Microkernel--> viết code --> chạy
-	(+ điểm GK-CK)
+  - Layer Architecture (ReatJS, Springboot)--> 3 Chức năng (nhanh)
+  - Microkernel--> viết code --> chạy
+    (+ điểm GK-CK)
 
 - Docker:
-	- CLI: docker image, docker run, docker build...--> Docker Desktop
-									docker pull, docker push-->dockerhub
-									image-->volume, data?...
-	
-	- Dockerfile: rõ--> build--> image
-			-docker: java (jdk + code java)==> jdk+ copy code--> image--> container
-		
-			reactjs--> dockerfile
-			springboot-->dockerfile
-			java-->dockerfile
+  - CLI: docker image, docker run, docker build...--> Docker Desktop
+    docker pull, docker push-->dockerhub
+    image-->volume, data?...
+  - Dockerfile: rõ--> build--> image
+    -docker: java (jdk + code java)==> jdk+ copy code--> image--> container
+
+        reactjs--> dockerfile
+        springboot-->dockerfile
+        java-->dockerfile
+
 - Bài số 4:
-		mono: spring boot + Sqlserver --> register-login--> postman--> test login + register
-		microservice:--> 2 spring boot
-							login--> regsiter--> getobject--> return--> user registry
-							register--> sqlserver--> 
-							
-							RestTemplate
+  mono: spring boot + Sqlserver --> register-login--> postman--> test login + register
+  microservice:--> 2 spring boot
+  login--> regsiter--> getobject--> return--> user registry
+  register--> sqlserver-->
+  RestTemplate
 
   ## Minh Chung
 
   ### Hello World
-	<img width="1600" height="506" alt="helloworld" src="https://github.com/user-attachments/assets/7b648f0f-c015-4920-a5d5-e6959aab07e6" />
 
+  <img width="1600" height="506" alt="helloworld" src="https://github.com/user-attachments/assets/7b648f0f-c015-4920-a5d5-e6959aab07e6" />
+
+  ### Bai 1 NodeJS
+
+  ![alt text](image-1.png)
+  ![alt text](image.png)
+
+  ### Bai 2 Python
+
+  ![alt text](image-2.png)
+
+  ### Bai 3 React
+
+  ![alt text](image-3.png)
+  ![alt text](image-4.png)

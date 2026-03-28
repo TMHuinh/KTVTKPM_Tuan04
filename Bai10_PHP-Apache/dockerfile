@@ -1,0 +1,4 @@
+FROM php:8.2-apache
+WORKDIR /var/www/html
+# Mã nguồn sẽ mount từ host, nên không copy trong Dockerfile
+EXPOSE 80

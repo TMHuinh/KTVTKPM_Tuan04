@@ -1,0 +1,1 @@
+console.log("Hello, Multi-stage Node.js Docker!");
